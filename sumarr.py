@@ -1,5 +1,5 @@
-a=int(raw_input("enter the N value:"))
-sum=0
-for f in range(0,a+1):
-	sum = sum+f
-print(sum)
+num=int(raw_input())
+su=0
+for i in range(0,num+1):
+	su = su+f
+print(su)
