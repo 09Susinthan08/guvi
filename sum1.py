@@ -1,4 +1,3 @@
 a=int(input())
-li=[int(i) for i in input().split()]
-su=sum(li)
-tsu=print(su+a)
+li=[int(a) for a in input().split()]
+su=print(sum(li))
