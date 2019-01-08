@@ -1,0 +1,14 @@
+a=int(input())
+a1=str(a)
+alen=len(a1)
+ams=0
+a2=a
+while(a>0):
+	t=a%10
+	t1=(t**alen)
+	ams=ams+t1
+	a=a//10
+if(a2==ams):
+	print("yes")
+else:
+	print("no")
