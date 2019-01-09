@@ -1,4 +1,9 @@
 q=int(input())
+l1=[]
 li=list(map(int,input().split(" ")))
 li.sort()
-print(li)
+for i in range(len(li)):
+    if(i==len(li)-1):
+        print(li[i],end="")
+    else:
+        print(li[i],end=" ")
