@@ -6,4 +6,4 @@ def ck():
         b=len(words[i])
         su=su+b
     print(su)
-main()
+ck()
