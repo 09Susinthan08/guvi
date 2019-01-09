@@ -1,0 +1,5 @@
+q=int(input())
+li=list(map(int,input().split(" ")))
+li.sort()
+a=((q+1)//2)
+print(li[a-1])
