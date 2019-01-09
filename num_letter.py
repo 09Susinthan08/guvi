@@ -1,0 +1,20 @@
+q=int(input())
+if(q==1):
+    print("One")
+elif(q==2):
+    print("Two")
+elif(q==3):
+    print("Three")
+elif(q==4):
+    print("Four")
+elif(q==5):
+    print("Five")
+elif(q==6):
+    print("Six")
+elif(q==7):
+    print("Seven")
+elif(q==8):
+    print("Eight")
+else:
+    print("Ten")
+    
