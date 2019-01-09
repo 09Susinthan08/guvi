@@ -10,4 +10,4 @@ if(c>0 and o==0):
 elif(c>0 and o==1):
     print("yes")
 else:
-    print("no")
+    print("No")
