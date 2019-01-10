@@ -1,2 +1,2 @@
-a,b=map(int,input().split(" "))
-print(a**b)
+w,e=map(int,input().split(" "))
+print(w**e)
