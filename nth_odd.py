@@ -1,4 +1,4 @@
-w,e=map(int,input().split(" "))
+q,e=map(int,input().split(" "))
 li=list(map(int,input().split(" ")))
 c=0
 for i in range(len(li)):
