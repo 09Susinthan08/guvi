@@ -1,0 +1,6 @@
+q,w = map(int,input().split(" "))
+e,r = map(int,input().split(" "))
+h = abs(q-e)
+m = abs(w-r)
+print(h,end=" ")
+print(m)
