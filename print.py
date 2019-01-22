@@ -1,0 +1,2 @@
+#susi
+print(input())
